@@ -1,0 +1,1 @@
+En esta sesion, aprendimos a configurar nuestra IDE Visual Studio Code, a installar Wakatime para hacer seguimiento a nuestro tiempo trabajando en los projectos, a configurar un repositorio usando Git y como sincronizarlo en GitHub, aprendimos algunos comandos de Linux y de Markdown y como configurar Git Pages.
